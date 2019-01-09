@@ -1,0 +1,23 @@
+{
+  "name": "scoreboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domfarnham/scoreboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domfarnham/scoreboard/issues"
+  },
+  "homepage": "https://github.com/domfarnham/scoreboard#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
