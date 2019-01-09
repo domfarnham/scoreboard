@@ -2,7 +2,7 @@
   "name": "scoreboard",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/domfarnham/scoreboard#readme",
   "devDependencies": {
+    "babel-eslint": "^10.0.1",
     "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
